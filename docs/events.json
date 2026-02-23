@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-23T05:37:18.997Z",
+  "generated_at": "2026-02-23T05:41:09.086Z",
   "year": 2026,
-  "count": 8,
+  "count": 9,
   "events": [
     {
       "start_date": "2026-02-22",
@@ -36,6 +36,18 @@
       "sport": "BEISEBOL",
       "category": "JUNIOR",
       "location": "CT CBBS/Yakult, Ibiúna – SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-08",
+      "start_time": "",
+      "end_time": "",
+      "title": "1ª Taça Little League Feminina Sub11",
+      "sport": "SOFTBOL",
+      "category": "SUB-11",
+      "location": "Nikkey Marília, Marília – SP",
       "notes": "",
       "link": ""
     },
