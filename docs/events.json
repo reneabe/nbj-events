@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T04:20:57.654Z",
+  "generated_at": "2026-02-23T04:41:58.240Z",
   "year": 2026,
   "count": 8,
   "events": [
@@ -18,8 +18,8 @@
     {
       "start_date": "2026-02-28",
       "end_date": "2026-03-01",
-      "start_time": "07:00",
-      "end_time": "18:00",
+      "start_time": "",
+      "end_time": "",
       "title": "4º Campeonato Brasileiro Taça Little League Pré-Infantil",
       "sport": "BASEBALL",
       "category": "PRE-INFANTIL",
