@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-23T03:54:19.328Z",
+  "generated_at": "2026-02-23T04:16:26.431Z",
   "year": 2026,
-  "count": 2,
+  "count": 8,
   "events": [
     {
       "start_date": "2026-02-22",
@@ -11,7 +11,7 @@
       "title": "Ressaca de Carnaval",
       "sport": "NBJ",
       "category": "GERAL",
-      "location": "",
+      "location": "Nippon Blue Jays, Arujá - SP",
       "notes": "",
       "link": ""
     },
@@ -23,6 +23,78 @@
       "title": "4º Campeonato Brasileiro Taça Little League Pré-Infantil",
       "sport": "BASEBALL",
       "category": "PRE-INFANTIL",
+      "location": "CT CBBS/Yakult, Ibiúna – SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-08",
+      "start_time": "",
+      "end_time": "",
+      "title": "4º Campeonato Brasileiro Taça Little League Júnior",
+      "sport": "BASEBALL",
+      "category": "JUNIOR",
+      "location": "CT CBBS/Yakult, Ibiúna – SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-03-14",
+      "end_date": "2026-03-15",
+      "start_time": "",
+      "end_time": "",
+      "title": "7ª Taça Yakult Interclubes Infantil",
+      "sport": "BASEBALL",
+      "category": "INFANTIL",
+      "location": "CT CBBS/Yakult, Ibiúna – SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-03-21",
+      "end_date": "2026-03-22",
+      "start_time": "",
+      "end_time": "",
+      "title": "12ª Taça Yakult Interclubes Pré-Júnior",
+      "sport": "BASEBALL",
+      "category": "PRE-JUNIOR",
+      "location": "CT CBBS/Yakult, Ibiúna – SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-03-22",
+      "end_date": "2026-03-22",
+      "start_time": "",
+      "end_time": "",
+      "title": "Festa do Sorvete",
+      "sport": "NBJ",
+      "category": "GERAL",
+      "location": "Nippon Blue Jays, Arujá - SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-04-04",
+      "end_date": "2026-04-05",
+      "start_time": "",
+      "end_time": "",
+      "title": "27º Torneio Início Interclubes Pré-Infantil",
+      "sport": "BASEBALL",
+      "category": "PRE-INFANTIL",
+      "location": "CT CBBS/Yakult, Ibiúna – SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-04-11",
+      "end_date": "2026-04-12",
+      "start_time": "",
+      "end_time": "",
+      "title": "4º Campeonato Brasileiro Taça Little League Infantil",
+      "sport": "BASEBALL",
+      "category": "INFANTIL",
       "location": "CT CBBS/Yakult, Ibiúna – SP",
       "notes": "",
       "link": ""
