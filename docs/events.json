@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-02-23T03:41:06.610Z",
+  "year": 2026,
+  "count": 2,
+  "events": [
+    {
+      "start_date": "2026-02-22",
+      "end_date": "2026-02-22",
+      "start_time": "",
+      "end_time": "",
+      "title": "Ressaca de Carnaval",
+      "sport": "NBJ",
+      "category": "GERAL",
+      "location": "",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-02-28",
+      "end_date": "2026-03-01",
+      "start_time": "07:00",
+      "end_time": "18:00",
+      "title": "4º Campeonato Brasileiro Taça Little League Pré-Infantil",
+      "sport": "BASEBALL",
+      "category": "PRE-INFANTIL",
+      "location": "CT CBBS/Yakult, Ibiúna – SP",
+      "notes": "",
+      "link": ""
+    }
+  ]
+}
