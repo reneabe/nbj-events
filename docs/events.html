@@ -42,24 +42,43 @@
   a { text-decoration: none; }
 
   /* Mobile: compacta e esconde apenas o link (menos essencial) */
-  @media (max-width: 720px) {
-    body { font-size: 12px; padding: 10px; }
-    h1 { font-size: 16px; }
-    h2 { font-size: 14px; }
+ @media (max-width: 720px) {
 
-    th, td {
-      padding: 6px 4px;
-      font-size: 11px;
-    }
-
-    /* esconde Link no celular */
-    th:nth-child(6), td:nth-child(6) { display: none; }
+  body {
+    font-size: 11px;
+    padding: 8px;
   }
+
+  h1 {
+    font-size: 15px;
+  }
+
+  h2 {
+    font-size: 13px;
+  }
+
+  th, td {
+    padding: 5px 3px;
+    font-size: 10px;
+  }
+
+  /* Esconde Categoria (3ª coluna) */
+  th:nth-child(3),
+  td:nth-child(3) {
+    display: none;
+  }
+
+  /* Mantém Link escondido (6ª coluna) */
+  th:nth-child(6),
+  td:nth-child(6) {
+    display: none;
+  }
+}
 </style>
 </head>
 <body>
   <h1>Calendário de Eventos – Nippon Blue Jays</h1>
-  <div class="meta">Eventos de 2026 • 8 item(ns) • Atualizado em 2026-02-23T05:08:30.162Z</div>
+  <div class="meta">Eventos de 2026 • 8 item(ns) • Atualizado em 2026-02-23T05:17:46.256Z</div>
   
       <section class="month">
         <h2>Fevereiro 2026</h2>
