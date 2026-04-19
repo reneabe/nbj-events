@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-09T16:34:06.649Z",
+  "generated_at": "2026-04-19T22:17:46.286Z",
   "year": 2026,
-  "count": 81,
+  "count": 93,
   "events": [
     {
       "start_date": "2026-02-22",
@@ -292,6 +292,18 @@
       "link": ""
     },
     {
+      "start_date": "2026-05-01",
+      "end_date": "2026-06-02",
+      "start_time": "",
+      "end_time": "",
+      "title": "Treino Equipe Crystal Lake",
+      "sport": "BEISEBOL",
+      "category": "JUNIOR",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
       "start_date": "2026-05-02",
       "end_date": "2026-05-03",
       "start_time": "",
@@ -300,6 +312,18 @@
       "sport": "NBJ",
       "category": "JUVENIL",
       "location": "CT CBBS / Yakult, Ibiúna, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-03",
+      "start_time": "",
+      "end_time": "",
+      "title": "Seletiva Softbol Sub-18",
+      "sport": "SOFTBOL",
+      "category": "SUB-19",
+      "location": "Nippon Blue Jays, Arujá, SP",
       "notes": "",
       "link": ""
     },
@@ -376,6 +400,18 @@
       "link": ""
     },
     {
+      "start_date": "2026-06-04",
+      "end_date": "2026-06-04",
+      "start_time": "",
+      "end_time": "",
+      "title": "Poliesportivo Nippon",
+      "sport": "NBJ",
+      "category": "GERAL",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
       "start_date": "2026-06-06",
       "end_date": "2026-06-07",
       "start_time": "",
@@ -420,6 +456,18 @@
       "sport": "BEISEBOL",
       "category": "JUVENIL",
       "location": "ACEL, Londrina, PR",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-06",
+      "start_time": "",
+      "end_time": "",
+      "title": "2026 Little League World Series",
+      "sport": "BEISEBOL",
+      "category": "JUNIOR",
+      "location": "Guyaquil, Equador",
       "notes": "",
       "link": ""
     },
@@ -544,6 +592,18 @@
       "link": ""
     },
     {
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12",
+      "start_time": "",
+      "end_time": "",
+      "title": "Taça Brasil Softbol Sub-11",
+      "sport": "SOFTBOL",
+      "category": "SUB-11",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
       "start_date": "2026-07-25",
       "end_date": "2026-07-26",
       "start_time": "",
@@ -628,6 +688,18 @@
       "link": ""
     },
     {
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "start_time": "",
+      "end_time": "",
+      "title": "Torneio Beisebol Pré Infantil",
+      "sport": "BEISEBOL",
+      "category": "PRE-INFANTIL",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
       "start_date": "2026-08-22",
       "end_date": "2026-08-23",
       "start_time": "",
@@ -664,6 +736,18 @@
       "link": ""
     },
     {
+      "start_date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "start_time": "",
+      "end_time": "",
+      "title": "Nippon Fest",
+      "sport": "NBJ",
+      "category": "GERAL",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
       "start_date": "2026-09-04",
       "end_date": "2026-09-06",
       "start_time": "",
@@ -672,6 +756,30 @@
       "sport": "BEISEBOL",
       "category": "INFANTIL",
       "location": "CT CBBS / Yakult, Ibiúna, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "start_time": "",
+      "end_time": "",
+      "title": "Torneio Sadao Kayano Pré-Júnior",
+      "sport": "BEISEBOL",
+      "category": "PRE-JUNIOR",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "start_time": "",
+      "end_time": "",
+      "title": "Torneio Sadao Kayano Sub-16",
+      "sport": "SOFTBOL",
+      "category": "SUB-16",
+      "location": "Nippon Blue Jays, Arujá, SP",
       "notes": "",
       "link": ""
     },
@@ -707,6 +815,18 @@
       "title": "Festival da Primavera",
       "sport": "NBJ",
       "category": "GERAL",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "start_time": "",
+      "end_time": "",
+      "title": "Torneio de Beisebol T-Ball",
+      "sport": "BEISEBOL",
+      "category": "T-BALL",
       "location": "Nippon Blue Jays, Arujá, SP",
       "notes": "",
       "link": ""
@@ -772,6 +892,18 @@
       "link": ""
     },
     {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "start_time": "",
+      "end_time": "",
+      "title": "Torneio Tia Maria de Softbol T-Ball",
+      "sport": "SOFTBOL",
+      "category": "T-BALL",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "start_time": "",
@@ -779,6 +911,18 @@
       "title": "Dia das Crianças",
       "sport": "NBJ",
       "category": "GERAL",
+      "location": "Nippon Blue Jays, Arujá, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "start_time": "",
+      "end_time": "",
+      "title": "Torneio Kazuo Aoyagui Beisebol Júnior",
+      "sport": "BEISEBOL",
+      "category": "JUNIOR",
       "location": "Nippon Blue Jays, Arujá, SP",
       "notes": "",
       "link": ""
