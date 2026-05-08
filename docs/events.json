@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T19:00:02.501Z",
+  "generated_at": "2026-05-08T21:00:02.689Z",
   "year": 2026,
-  "count": 93,
+  "count": 97,
   "events": [
     {
       "start_date": "2026-02-22",
@@ -448,6 +448,18 @@
       "link": ""
     },
     {
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14",
+      "start_time": "",
+      "end_time": "",
+      "title": "Campeonato Paulista - Finais",
+      "sport": "BEISEBOL",
+      "category": "JUNIOR",
+      "location": "CT CBBS / Yakult, Ibiúna, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
       "start_date": "2026-06-20",
       "end_date": "2026-06-21",
       "start_time": "",
@@ -456,6 +468,18 @@
       "sport": "BEISEBOL",
       "category": "JUVENIL",
       "location": "ACEL, Londrina, PR",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21",
+      "start_time": "",
+      "end_time": "",
+      "title": "Campeonato Paulista - Finais",
+      "sport": "BEISEBOL",
+      "category": "INFANTIL",
+      "location": "CT CBBS / Yakult, Ibiúna, SP",
       "notes": "",
       "link": ""
     },
@@ -540,6 +564,18 @@
       "sport": "BEISEBOL",
       "category": "PRE-INFANTIL",
       "location": "Gecebs, Aruja', SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "start_time": "",
+      "end_time": "",
+      "title": "Campeonato Paulista - Primeira fase",
+      "sport": "BEISEBOL",
+      "category": "PRE-JUNIOR",
+      "location": "CT CBBS / Yakult, Ibiúna, SP",
       "notes": "",
       "link": ""
     },
@@ -851,6 +887,18 @@
       "title": "14ª Taça de Clubes Campeões Júnior",
       "sport": "BEISEBOL",
       "category": "JUNIOR",
+      "location": "CT CBBS / Yakult, Ibiúna, SP",
+      "notes": "",
+      "link": ""
+    },
+    {
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "start_time": "",
+      "end_time": "",
+      "title": "Campeonato Paulista - Finais",
+      "sport": "BEISEBOL",
+      "category": "PRE-JUNIOR",
       "location": "CT CBBS / Yakult, Ibiúna, SP",
       "notes": "",
       "link": ""
